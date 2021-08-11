@@ -12,7 +12,7 @@ class FormControl extends Component {
   };
 
   render() {
-    const { id, label, onInputComplete, ...restProps } = this.props;
+    // const { id, label, onInputComplete, ...restProps } = this.props;
     const { value } = this.state;
     return (
       <div className='reactForm'>
