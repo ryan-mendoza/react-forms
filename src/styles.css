@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: #262b3d;
+  color: white;
+}
+
+.formControl {
+  width: 100%;
+  text-align: center;
+}
+
+.formControl input {
+  width: 50%;
+  border: 0;
+  padding: 1em;
+  border-radius: 4px;
+  color: #1c2739;
+}
